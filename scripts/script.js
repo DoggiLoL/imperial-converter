@@ -23,7 +23,7 @@ const measures = [{
 }
 ]
 
-inputEl.value = '1'
+inputEl.value = '0'
 
 convertBtn.addEventListener("click", function (){
     inputElNumber = Number(inputEl.value)
